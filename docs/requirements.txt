@@ -5,3 +5,4 @@ recommonmark
 sphinx
 sphinx-rtd-theme
 tensorflow
+numpy>=1.22.0 # not directly required, pinned by Snyk to avoid a vulnerability
